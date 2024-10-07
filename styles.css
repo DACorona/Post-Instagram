@@ -1,0 +1,81 @@
+body {
+    background: black;
+    padding: 100px;
+}
+
+.Post {
+    background: white;
+    height: 45em;
+    width: 35em;
+    margin: auto;
+}
+.p-header{
+    width: 35em;
+    height: 5em;
+    display: flex;
+}
+.p-header img{
+    padding: 5px;
+    height: 2.5em;
+    width: 2em;
+    margin-top: 0.5em;
+    margin-left: 0.5em;
+    margin-bottom: 0.5em;
+    }
+.p-header h1{
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+    margin-bottom: 0;
+    
+ }
+ .p-header p{
+    font-family: "Roboto", sans-serif;
+    margin-top: 0;
+     }
+.menu{
+    margin-right: 0;
+    padding-left: 24em;
+}
+.p-image{
+    width: 35em;
+    height: 24em;
+}
+.p-image img{
+    width:35em;
+    height: 24em;
+}
+.p-icons{
+    width: 35em;
+    height: 5em;
+    display: flex;
+    }
+.left-icons{
+    display: flex;
+    padding: 5px;
+}
+.like {
+  width: 3em;
+  float: left;
+}
+.comment{
+    width: 3em;
+    float: left;
+}
+.foward{
+    width:3em;
+    float: left;
+}
+.save{
+    width: 2em;
+    height: 3em;
+    margin-left: 21em;
+    padding: 5px;
+}
+.p-text {
+    width: 35em;
+    height: 10em;
+    font-family: "Roboto", sans-serif;
+    font-size: medium;
+    padding: 10px;
+    text-align: left;
+}
